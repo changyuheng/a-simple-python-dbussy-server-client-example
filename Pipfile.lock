@@ -1,0 +1,32 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "2fbfeb4bac437ed6c1a175aab1e19e09ff90d16f58044527a91f56a642678d12"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.5"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "dbussy": {
+            "hashes": [
+                "sha256:b6cedc8b4479094909f65c6af78cfe46b8be59a97ec17f068bd26267c9420ca3"
+            ],
+            "index": "pypi",
+            "version": "==1.2.1"
+        },
+        "dbussyexample": {
+            "editable": true,
+            "path": "."
+        }
+    },
+    "develop": {}
+}
